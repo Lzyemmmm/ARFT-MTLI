@@ -18,6 +18,7 @@ To train the model, please run the following command:
 
 ```bash
 python train_Falcon.py
+```
 
 ##  Data
  
