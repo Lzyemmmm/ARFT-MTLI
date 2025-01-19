@@ -499,11 +499,11 @@ def train(model, train_data, val_data, learning_rate, epochs, batch_size, save_p
 
 if __name__ == '__main__':
 
-    # 载入数据
+
     train_data = pd.read_pickle('sample_train_data.pkl')
     val_data = pd.read_pickle('sample_val_data.pkl')
 
-    # 指定参数
+
     model=FALCON()
     epochs=50
     batch_size=16
@@ -511,5 +511,5 @@ if __name__ == '__main__':
     save_path='your_path'
     use_adaptive_weights=True
 
-    # 开始训练
+
     train(model, train_data, val_data, learning_rate, epochs,batch_size, save_path, use_adaptive_weights=use_adaptive_weights)
