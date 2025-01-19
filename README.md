@@ -25,6 +25,7 @@ We have released a subset of the annotated and extracted interaction data. The r
 
 For the annotated data `sample_train_data`, the `text` column contains the text content, with the four entities of interest (Person 1, Person 2, Time, and Location) marked with special tokens ["#", "$", "*", "&"]. The `labels` column is used for the temporal interaction task, while `tra1_labels` and `tra2_labels` are used for the trajectory tasks. `tra1_layer` and `tra2_layer` are trajectory features obtained from a pre-trained trajectory model, used for feature transfer.
 
+`sample_interaction_data.pkl` is the data we extracted. We temporarily display 1000 entries.
 ## Cite
 
 Please cite our paper if you find this code useful for your research
