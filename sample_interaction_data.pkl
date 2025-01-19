@@ -1,0 +1,1001 @@
+,person1,person2,Time,Location
+331336,Eileen Hiscock,Ethel Johnson (athlete),1932,Britain
+538256,Wolter Blankert,Gerard van der Linden,2007,Linz
+77218,Decimus Haterius Agrippa,Decimus Haterius Agrippa,AD 32,Regulus
+298137,C. A. Bottolfsen,William Borah,1940,Senate
+159233,José Sarney,Geraldo Alckmin,2022,Tebet
+559775,Roger McGuinn,Gram Parsons,1960s,Emery
+466549,"David James (footballer, born 1970)",Philibert Jones,1 June 2008,England
+482683,Donovan Morgan,Petey Williams,"April 8, 2006",Xavier
+581912,Steve Buscemi,Shelly Mars,2005,Livingston
+110620,Billy Murray (actor),Billy Murray (actor),21 July 1976,Hammersmith
+399729,Sandra Kleinová,Alexandra Fusai,1997,French Open
+560630,Adél Brüll,Adél Brüll,August 1903,Paris
+485952,Frank Buckley Walker,Coley Jones,"December 3, 1927",Dallas
+181943,Luca Cordero di Montezemolo,Luca Cordero di Montezemolo,1974,Ferrari
+495531,Leonard Floyd,Quayvon Hicks,pro day,Georgia
+447067,Simon Phillips (drummer),Joe Walsh,Later years,Entwistle
+391570,Éamon de Valera,Michael Collins (Irish leader),February 1919,Lincoln
+263212,Ben Stiller,Jack Black,the late 1990s,Hollywood
+555926,Alan Shepard,Deke Slayton,"April 9, 1959",Washington
+423233,Bobby Richardson,Willie Mays,1962 season,Japan
+534886,Alan Bleasdale,Willy Russell,the mid-1970s,Liverpool
+553517,Carol Henning,Jim Denley,September 1989,Linz
+297821,Charles Barkley,Karl Malone,1983,Yugoslavia
+316926,Giulio Alberoni,Philip V of Spain,1719,Spain
+412325,Rennae Stubbs,Jeb Bush,December 2004,Tampa
+319453,Johann Gildemeister,Christian Lassen,1844,Bonn
+276975,Gene Bartow,Larry Brown (basketball),nine years,UCLA
+335039,Ethel Waters,Josh White,1945,Broadway
+332817,Heinrich Kleinschroth,Henner Henkel,1937,Japan
+268818,Jovan Kosturi,Thimi Marko,1884,Toskëria
+166529,Mikhail Botvinnik,Vasily Osipovich Smyslov,1956,Amsterdam
+450949,Morrie Rath,Shoeless Joe Jackson,1910,Philadelphia
+125202,Bartolomeo Passarotti,Galeazzo Campi,between 1580 and 1585,Cremona
+297878,Mildred Bailey,Benny Goodman,"February 2, 1934",Columbia
+302690,Lorne Michaels,Lily Tomlin,1978,Chevy Chase
+535879,Clint Eastwood,Cesar Chavez,2006,Museum
+418475,Gertrude Stein,Waldo Peirce,the 1920s,Paris
+276087,Helmut Federle,Dan Flavin,1984,Austria
+350095,Tom Robinson,Midge Ure,1981,Donovan
+155777,William Ramsay,Morris Travers,September 1898,England
+448167,David Arnold,Leeds,28 August 2022,Chase
+80014,Julien Cahn,Charles Robins,March 1930,Argentina
+263717,Tohura Khatun,Maria Manda,the first half 3–0 ahead,Bangladesh
+388554,Jake Cassidy,Simon Walton,August 2016,Alfie
+120379,Ian Clarkin,Tito Polo,"July 18, 2017",Rutherford
+257215,Peter von Sebottendorf,"John Casimir, Prince of Anhalt-Dessau",the years 1608-1609,Geneva
+535867,Darren Byfield,Lee Trundle,the start of the 2007–08 season,Showunmi
+160191,Ronald Koeman,Erwin Koeman,1983,Netherlands
+509652,John Tomlinson (bass),Anne Evans (soprano),1993,Jerusalem
+117901,"Ken Norton, Jr.",Jesse Penn,"August 25, 1988",Dallas
+32388,Yamina Bachir,Mohamed Chouikh,1982,Algiers
+187725,Giorgio de Chirico,Man Ray,A year later,Paris
+120980,Kevin Gowdy,Ian Kennedy,"July 30, 2021",Howard
+497461,Charles Stansfeld Jones,Heinrich Tränker,"May 10, 1921",US
+295799,François Joseph Bosio,Pierre-Narcisse Guérin,two years,Paris
+479496,Anthony Patterson,"Jack Diamond (footballer, born 2000)",7 January 2022,Sunderland
+262051,Lucio Fontana,Pol Bury,1962,Amsterdam
+331094,György Endresz,Sándor Magyar,1931,USA
+7528,John Taylor (Mormon),Heber C. Kimball,"April 6, 1883",United States
+391680,Alexander Belev,Theodor Dannecker,February 1943,Commissar
+593149,Cornelius Vanderbilt,Gerrit Smith,"May 13, 1867",Richmond
+386465,Eric Erlandson,Melissa Auf der Maur,April 2012,Brooklyn
+218086,Robert Charlebois,Yvon Deschamps,24 June 1976,Montreal
+361082,Ronnie Burrage,Don Alias,1998,Belgium
+567107,Zsa Zsa Gabor,Doris Day,August 1956,Hollywood
+555627,Johan Cruyff,Hristo Stoichkov,7 November 1995,Zubizarreta
+288295,Bruce Bueno de Mesquita,Alexander Rosenberg,1963,Stuyvesant High School
+352860,Bogdan Borusewicz,Zbigniew Bujak,1986,National Commission
+96191,Zoran Živković (politician),Zoran Đinđić,2001 to 2004,Serbia
+532612,Henri Matisse,Pablo Picasso,the next several years,Paris
+484187,Michelle McCool,Cassidy O'Reilly,"August 4, 2006",SmackDown
+477755,Karim Benzema,Franck Ribéry,31 January 2014,Paris
+191534,Lee Thomas (baseball),Al Unser (baseball),a few years,Phillies
+530810,William Merritt Chase,Frank Alvah Parsons,1905,New York
+390003,Leslie Hawkins,Cassie Gaines,December 1975,Southern Rock
+150806,Josef Wilhelm Rinck von Baldenstein,Josef Wilhelm Rinck von Baldenstein,4 August 1721,Delémont
+577970,Les Miles,Cale Gundy,2004,LSU
+193367,Barbra Streisand,Tiny Tim (musician),the early 1960s,Boston
+345538,Murray Halberg,Don Oliver,1972,Olympic
+415008,Carlos González (baseball),Troy Tulowitzki,August 4,Colorado
+552218,Norm McRae,Jim Hannan,The day,Washington
+331634,Frankie Crosetti,Joe Sewell,1933,Yankees
+394336,Michelle Williams (singer),LaTavia Roberson,January 2000,Franklin
+337963,William Zeckendorf,Benjamin Swig,1954,Tichy
+556911,Bertrand Delanoë,Lionel Jospin,The next day,Paris
+185004,Eddy Arnold,Hank Snow,1938,Parker
+331000,Stephen Mopope,Spencer Asah,1930,Gallup
+556987,Adolph Fischer,George Engel,The next day,Parsons
+578547,Frank Marshall (chess player),Reuben Fine,1937,US
+386881,Jim Caviezel,Mike Lindell,April 2021,Oklahoma
+469032,Alejandro Valverde,Luis León Sánchez,14 March,Contador
+316649,"George FitzRoy, 1st Duke of Northumberland","Henry FitzRoy, 1st Duke of Grafton",1676,Paris
+256093,Blackjack Mulligan,Ivan Koloff,the mid '70s,Carolina
+306904,Ray Dandridge,Dick Seay,1937,Negro
+468831,Claude Lecourbe,Charles-Étienne Gudin de La Sablonnière,14 December,Salzburg
+341061,Dave Broadfoot,Jack Creley,1962,London
+1142,Shaun Van Allen,Donald Audette,21 November 2001,Dallas
+535630,Allison Schmitt,Dagny Knutson,7:46.14,Franklin
+184,Thomas Scott Baldwin,Fred Karno,1888,Alexandra Palace
+465142,Julius Klengel,Hugo Becker,18,Berlin
+301640,Pepper Rodgers,Dick Vermeil,1974,UCLA
+494549,Bill Russell,Jim Brown,"June 4, 1967",Cleveland
+448903,Sable (wrestler),Shane Carwin,July 3,UFC 116
+255916,Matt Striker,Vampiro,2014,Unimas
+394224,Raoni,Sting (musician),a few months,Rolling Stone
+200782,William Orpen,Frederick Brown (artist),1899 to 1903,London
+356652,Mahesh Bhupathi,Scott Draper,1992,Wimbledon
+559316,Michael Stipe,Bill Rieflin,"the last two numbers.n/aApril 1, 2006 – Athens",Rockville
+554447,Rob Van Dam,Rob Van Dam,March 31,Storm
+574497,Katie Ledecky,Karlee Bispo,7:45.14,U.S.
+302935,Eddie DeLange,Bob Russell (songwriter),the 1940s,DeLange
+220528,Klára Koukalová,Petra Martić,the year,Grand Slam
+158848,Murray Walker,James Allen (journalist),1997,ITV
+221453,Peter Crouch,Daniel Agger,31 March 2007,Liverpool
+255311,Rudolf Carnap,A. J. Ayer,the academic year 1932–33,Europe
+168944,Wilbur Campbell,Johnny Griffin,the spring of 1944,DuSable High School
+232082,Anna Smith (tennis),Liam Broady,August 2007,Cumberland
+168732,Tom Zakrajsek,Tammy Gambill,2018–2019 season,Colorado
+502961,Marco Rubio,Rick Scott,October 5,Florida
+534918,Hollis Watkins,Curtis Muhammad,summer,Mississippi
+343235,Aleksandr Tvardovsky,Konstantin Fedin,1967,Moscow
+529320,Sandra (singer),Limahl,another ‘80s,Poland
+120664,José Tábata,Xavier Nady,"July 26, 2008",Pirates
+426972,Marshall Bridges,Roger Maris,Game 4,Yankee Stadium
+491826,Kid Williams,Jack Sharkey,"July 27, 1917",Baltimore
+171751,Carl Frampton,Carl Frampton,18 November 2017,Belfast
+39702,Ed Belfour,Andy Moog,1990,Dallas
+300883,Alexander William Duncan,Alec Boswell Timms,1901–02 season,University
+273330,Markus Steele,Zeke Moreno,From 1998 to 1999,the University of Southern California
+393716,Anna Larina,Vladimir Lenin,January 1922,London
+225175,John Phillips (musician),Ralph Gibson,August 1966,California
+494574,Yu Dongyue,Liu Xiaobo,"June 4, 2009",Washington
+328726,André Breton,Max Ernst,1922,Paris
+147259,Federico Macheda,Tyler Blackett,31 January 2014,Birmingham City
+299232,Gwyneth Paltrow,Kelly Reilly,2002,London
+351127,Jimmy Page,Ronnie Lane,1983,London
+589321,Demetrius Andrade,Daniel Jacobs (boxer),the 2008,U.S.
+96845,Katherine de Stafford,"Michael de la Pole, 2nd Earl of Suffolk",about 1410,Suffolk
+180914,Kamekichi Tokita,Kenjiro Nomura (artist),"July 7, 1929",Seattle
+580043,Karl von Piloty,Franz Adam,1868,Bavaria
+120223,Josh Hawley,Adam Silver,"July 10, 2020",NBA
+569169,Isabella Rossellini,Peter Gallagher,1993,Showtime
+531376,Dave Holland,Ricky Ford,16 years,Boston
+496288,Malcom Brown,Geoff Swaim,"March 24, 2015",Texas
+306247,Quincy Carter,Ray Hill (American football),October 20,Arizona
+443025,Brodie Lee,Joey Janela,June 24,Cabana
+124348,Dominic Breazeale,Deontay Wilder,25 February 2017,Birmingham
+318931,Daniel Breck,John L. Helm,1834,House
+578957,David Baddiel,Matt Lucas,11,Elstree
+231738,Zalman Schachter-Shalomi,Joseph Fins,1998–2003,CLAL
+415715,Buster Stiggs,Phil Judd,late 1979,New Zealand
+527738,Minka Kelly,Kate Walsh (actress),Season one,Los Angeles
+418637,Jimmie Lunceford,Billy Eckstine,1930s,Fuller
+289094,Kevin Sabet,David Frum,2013,Marijuana
+457268,David Oldfield (politician),David Ettridge,late 1998,Media
+168315,Harl McDonald,W. H. Auden,"July 13, 1999",Swarthmore College
+67573,James Cagney,Ann Sheridan,1940,Kazan
+194353,Frank Rosolino,Chico Hamilton,the early 1960s,Los Angeles
+247422,Robert Emmet,Michael Dwyer,April 1803,Rathfarnham
+20419,Kristin MacCuish,Jocelyn Peterman,2012,Alberta
+493347,Cristian Javier,Zack Greinke,"June 16, 2021",Astros
+11451,Charles Shaar Murray,Paul Morley,the 1970s,UK
+23535,Margaret Gray Evans,John Evans (Colorado governor),"December 16, 1855",Evanston
+460988,Marshall Faulk,Heath Shuler,one more year,Wheatley
+400746,Michael Chertoff,George W. Bush,March 2003,the Third Circuit
+118291,Yoshihiro Takayama,Hirooki Goto,"January 4, 2011",Okada
+555336,Kiffy Rubbo,Lynne Cooke,The following year,Australia
+240272,Duriel Harris,Rosamond S. King,2014,Antioch College
+557200,Nikita Zaitsev,Connor Brown (ice hockey),the 2016–17 season,Toronto
+389062,Jennifer Oeser,Kamila Chudzik,2009,Berlin
+344261,Jerry Scheff,Ron Tutt,1970,Hardin
+65886,José Manuel Balmaceda,Hans Steffen,1889,Santiago
+120988,Ken Griffey Jr.,Danny Richar,July 31,Masset
+480461,Paul Manafort,Jared Kushner,9 June 2016,Trump Tower
+366734,Dave O'Higgins,John Serry Sr.,2004,London
+480678,Robert Widenmann,Henry Newton Brown,April 1,Lincoln
+566102,Cole Swindell,Alan Jackson,2018,Alaina
+415895,Mariko Yoshida,Liv Morgan,late 2005,Knox
+468393,Katarina Waters,Paul Burchill,13 January 2009,Burchills
+389291,Max Liebermann,Erich Heckel,1914,Berlin
+476418,Mickie James,James Storm,29 July,Magnus
+344644,Steve Kipner,Maurice Gibb,1971,London
+279929,Brittany Brooks,Sharon Aguilar,2010,Taratata
+460877,George Kennedy,Dean Martin,1970,Moscow
+149709,Gregory van der Wiel,Louis van Gaal,15 August 2012,Netherlands
+194885,Hjalmar Riiser-Larsen,Olav Kjelbotn,1933,Antarctica
+303512,Jay Gruden,Ryan Kerrigan,2018,Smith
+361730,Donny McCaslin,Adam Rogers (musician),1998,Curtis Fuller
+352561,Jerry Lee Lewis,Roy Orbison,1985,Stuart
+527445,Saffron Burrows,Sara Powell,May 2005,London
+438513,Dorothy Burr Thompson,Homer Thompson,monthly,Archaeology
+217952,"Charly Musonda (footballer, born 1969)",Kalusha Bwalya,the quarter,midfield
+217738,Herbert Schade,Emil Zátopek,1952,France
+351722,Mark Ella,Glen Ella,1984,Hong Kong
+497256,Brandon Thompson (American football),Kourtnei Brown,"March 8, 2012",Clemson
+558719,Vance McAllister,Neil Riser,November 16,State
+167725,David Freebairn,William Irvine (bishop),25 July 1724,Edinburgh
+393743,Monroe Tsatoke,Spencer Asah,January 1927,Norman
+195464,Johnny Antonelli,Bobby Thomson,"February 1, 1954",Milwaukee
+183933,Jimmie Johnson,Chad Knaus,"October 10, 2018",Hendrick Motorsports
+19901,Gustave Singier,Jean-Michel Atlan,Between 1947 and 1950,Paris
+177592,Philip Glass,Steve Reich,the 1960s,New York
+265423,Harry Galbreath,Otho Davis,the 1987 season,Volunteers
+348744,Charles J. Carney,Tennyson Guyer,1978,Applegate
+111810,Pavel Dědeček,Josef Micka,1940 through 1945,Prague
+563996,Pete Shelley,Chris Sabin,September 19,CMLL
+268549,Michael Bennet,Perry Buck,2010,U.S. Senate
+430061,Andre Miller,Juwan Howard,the summer of 2009,Blazers
+212648,Chihiro Hashimoto,Dash Chisako,25 years,Team Sendai
+271184,Frano Kršinić,Hinko Juhn,1924 to 1928,Zagreb
+195006,Jeanne Robinson,John Koerner,a decade,Vancouver
+451018,Sean McVay,Press Taylor,2017,Los Angeles
+517751,Benjamin Franklin,John Adams,1774,Hampden
+375983,Wunmi Mosaku,Jean Reno,2012,Paris
+571645,Anthony Scattergood,John Pearson (bishop),1660,London
+309090,Alexander Van der Bellen,Norbert Hofer,24 April 2016,Austria
+573033,"Henry Stuart, Duke of Gloucester",James II of England,22 April 1656,England
+67252,Edmund Husserl,Georg Simmel,1933,Hegel
+504834,Andrew Wiggins,Jabari Parker,September 6,Michigan
+443499,Kieth Engen,Alfred Koerppen,1964,Stadthalle
+106754,Chandler C. Cohagen,Walter V. Marshall,1915,Montana
+193310,George Harrison,Ravi Shankar,325–26,Kashmir
+328630,Gwendoline Porter,Daisy Leach,1922,Paris
+223455,Nathan MacKinnon,Matt Duchene,2015,Canada
+195848,Mike Jorgensen,Del Unser,the entire season,Montreal
+275214,Elizabeth Cady Stanton,Olympia Brown,the age of 14,California
+51085,Alissa Bjerkhoel,Justin Brooks,June 2013,Semanchik
+484405,Dale Baird,Cash Asmussen,"August 7, 2021",North America
+27905,Bonnie Raitt,John Hall (New York politician),1979,MUSE
+39631,Snoop Dogg,Dr. Dre,1993,Cadillac
+244832,Kamla Persad-Bissessar,Keith Rowley,2015,Trinidad
+345757,Barbara Bergmann,Charles Schultze,1973,the University of Maryland
+333025,Maud of Wales,Harald Salvesen,1938,Scotland
+4050,Enzo Ragazzini,Don McCullin,1969,London
+71916,Bill Clinton,George Moose,1993,State
+572388,Andrew Hull Foote,Ulysses S. Grant,January 30,Tennessee
+268733,Jim Lauderdale,Rosie Flores,the 1980s,Los Angeles
+195100,Madison Keys,John Stephens (American football),the following year,the United States
+267405,Chuck Thompson,Curt Gowdy,1966,Baltimore
+292512,Brooks Kerr,Jo Jones,the early 1980s,New York City
+410055,Patty Jenkins,Geoff Johns,1984,Callaham
+224443,John von Neumann,Hans Bethe,a few months per year,Los Alamos National Laboratory
+466923,Steven Taylor (footballer),James Perch,10 December 2011,Newcastle
+370485,Rufa Mae Quinto,Eugene Domingo,2007,Apat
+297488,Graham Gooch,Mark Waugh,the 1980s and,the County Championship
+478827,John N. Mitchell,Henry Kissinger,5 September 1970,Washington
+410344,Eleonore Caburet,Ainhoa Dot,September,Sofia
+391951,Louie Bellson,Gerry Brown (drummer),February 1987,York
+465279,Brad Little,Mark Nye (politician),"August 5, 2022",Senate
+38252,John McCormick (American football),Steve Tensi,1968,Denver
+137098,Jerry Tuite,Savio Vega,"March 1, 2002",Quebec
+172176,Peter A. Boodberg,Wolfram Eberhard,1950,Berkeley
+373081,Ricky Carmichael,James May,2009,California
+331309,Ian Fairweather,William Frater,1932,Melbourne
+401503,Michèle Peyron,Gilles Le Gendre,March 2020,Nogal
+360661,Robert Sean Leonard,Glenn Close,1997,HBO
+256595,Oscar Robertson,Elvin Hayes,12th to 6th,NBA
+240259,Walter Slaughter,Seymour Hicks,29 December 1919,Fairyland
+233068,Edwin Holgate,Maurice Denis,1912,Paris
+573418,Mark Cavendish,André Greipel,"September 26, 2008",Columbia
+592846,Steny Hoyer,Bob Kerrey,2000,Senate
+300973,Fernando Gago,Lionel Messi,2005,Netherlands
+564119,Ernst Georg Ravenstein,William Penny Brookes,the 19th century,Hulley
+291831,Theodore von Kármán,Hans W. Liepmann,1947,California Institute of Technology
+415998,Luke Hemmings,Calum Hood,late 2011,Irwin
+203416,Henryk Walecki,Boris Reinstein,August 1922,Bridgman
+140710,Sydney Granville,Anna Bethell,1949,Evans
+7947,"William Monson, 1st Viscount Monson","William Monson, 1st Viscount Monson",October 1625,Reigate
+512624,Francis Thompson,Ron Oxenham,a century,Queensland
+415690,Terry Scott Taylor,Steve Baxter (musician),late 1974,Jubal
+15857,Wayne Kellestine,Jamie Flanz,April 2006,Toronto
+430235,William S. Hart,Tom Mix,the summer,Los Angeles
+166812,Heinz Kessler,Willi Stoph,12 May 1992,Moscow
+568911,Michael Stensgaard,"David James (footballer, born 1970)",the end of the 1994–95 season,Liverpool
+241548,František Plánička,Ricardo Zamora,the 1930s,Italy
+329865,John von Neumann,Max Born,1926,Göttingen
+316853,Christina Piper,Arvid Horn,1709,Molin
+203388,Marcelo Bonfá,Renato Russo,1982.Neder,Brasília
+493636,Edward P. Murray,Horace Hildreth,"June 2, 1948",Merrill
+192496,Carl Friedrich Gauss,Johann Friedrich Ludwig Hausmann,1828,Göttingen
+364337,Ong Beng Hee,Glen Wilson (squash),2002,Malaysia
+210103,Ateker Ejalu,Yash Tandon,1961,Uganda
+128178,Russell Coutts,John Kostecki,1993,Pinta
+221383,Melissa McCarthy,Ryan Reynolds,2007,Nines
+24347,Seymour Berkson,Eleanor Lambert,"August 30, 1939",Manhattan
+276081,Helmut Federle,Imi Knoebel,1984,Austria
+474115,Nathaniel Willemse,Jessica Mauboy,24 January 2014,Henderson
+359021,Jeremiah Joseph O'Keefe,Willie E. Gary,1995,Mississippi
+354952,Arantxa Sánchez Vicario,Elizabeth Minter,1989,Spain
+396587,Juliet Stevenson,Trevor Nunn,July 2004,Stubbs
+559320,Michael Stipe,Mike Mills,"the last two numbers.n/aApril 1, 2006 – Athens",Rockville
+573172,Stuart Symington,Harry S. Truman,February 15,U.S.
+337729,Wynn Bullock,Minor White,1953,San Francisco
+139612,William Kelly Simpson,William Kelly Simpson,"May 4, 1895",New York City
+251397,Donald Friend,Jeffrey Smart,10 years,Australia
+321758,Frederic Crowninshield,Otto Grundmann,1880,Boston
+550053,Amelia Earhart,Jake Guzik,the 1930s,Chicago
+428436,Jake Cuenca,Kim Chiu,the same year,Martin
+164585,Marie Laurencin,Juliette Roche,1916–1918,Barcelona
+83280,Vladimir Lenin,James Joyce,1917,Zurich
+545625,Michael Des Barres,Liberty DeVitto,That year,Cleveland
+373076,George Seitz (politician),Steve Hutchins,1982,Labor
+534883,Pete Postlethwaite,Alan Bleasdale,the mid-1970s,Liverpool
+234912,Radoslav Bečejac,Fahrudin Jusufi,December 1964,Vasović
+300591,John L. Sullivan,Paddy Ryan,"January 19, 1885",Madison Square Garden
+429125,Karl Haberstock,Héctor Feliciano,the spring of 1941,Paris
+498313,Jhonny González,Jhonny González,"May 23, 2009",Mexico
+116063,Leung Kwok-hung,Wong Yuk-man,29 January 2010,the Legislative Council
+17560,Ronnie Barker,Ronnie Barker,1962,Willesden
+301645,Greg Chappell,Dennis Lillee,1977,England
+302708,Fredrik Lindgren (golfer),Jesper Parnevik,1984,Ireland
+3435,Isabelle Adjani,Claire Chazal,2006,France
+275223,Kōsaku Matsumora,Motobu Chōyū,the age of 19 or 20,Motobu
+287233,Frank Farina,John Aloisi,later that year,Kuwait
+216264,Lee Vann Corteza,Darren Appleton,2009,Championship
+227374,Joël Veltman,Kenny Tete,Between 2018 and 2019,Netherlands
+485434,Yuniesky Betancourt,Jake Odorizzi,December 19,the Milwaukee Brewers
+194038,Boris Goldovsky,Annabelle Bernard,1955,Xavier University
+203321,Robert Pires,Thierry Henry,the 2003–04 season,Kanu
+235247,Bruno Koschmider,Owen Williams (Owen Gwyrfai),July,Liverpool
+413064,Marita Lorenz,Fidel Castro,early 1960,New York
+384512,Gillian Clarke,Menna Elfyn,2021,Hall
+521895,Ernst von Weizsäcker,Gottlieb von Jagow,14 October 1942,Hungary
+192830,Ayelet Shaked,Gilat Bennett,January 2020,Knesset
+214674,Chris Adams (wrestler),Chris Adams (wrestler),"March 11, 1995",Brazoswood High School
+400244,Otto Schaedler,Adolf Hitler,March 1939,Berlin
+548740,Charlie Conacher,Art Jackson,four consecutive seasons,Toronto
+325325,Margaret Nairn,Frances Simson,1906,Edinburgh
+182945,Sallie W. Chisholm,David Kaiser,2010,MIT
+250139,Steve Staunton,Mick McCarthy,2002,FIFA World Cup
+550780,Peter Evison,Phil Taylor (darts player),1996,Priestley
+429063,Yuan Shu,Liu Dai,the spring,Han Fu
+284058,Harry Cooper (golfer),Paul Runyan,1934,Australia
+403067,Bette Midler,Sheryl Crow,May 2009,Caesars Palace
+358101,Sissel Kyrkjebø,Plácido Domingo,annual,Vienna
+533960,William Scott (artist),Henry Moore,1946,London
+240924,Andy Reid,Chad Lewis,2004,Smith
+402911,Ginger Baker,Jack Bruce,May 2005,London
+303389,Jackie Parker,Rollie Miles,1956,Eskimos
+332678,Alberto Alonso,Sol Hurok,1936,Havana
+392528,Shea Taylor,Rob Persaud,February 2014,Leitte
+155216,Tito Ortiz,Tito Ortiz,July 2002,London
+406447,Rutland Barrington,Ada Reeve,October 1901,Savoy
+536248,Francesco Totti,Andrea Pirlo,2006,Italy
+309196,Yasunari Kawabata,Yukio Mishima,1967,China
+263348,Frances Jolliffe,Alice Paul,1915,World
+308545,Nick Bockwinkel,Lou Thesz,"December 26, 1990",Hamamatsu
+258154,Carmine Persico,William Cutolo,Earlier that day,Brooklyn
+516658,Stanley Clarke,Al Di Meola,October 2004,U.S.
+78947,Jeff Tedford,Turner Gill,January 2010,Buffalo
+266188,Alexander Grischuk,Simen Agdestein,2013,Paris
+88056,Philippe Boegner,Marc Boegner,3 July 1913,Paris
+359362,Laurie Simmons,Cindy Sherman,1995,New York's
+223897,William Alexander Graham,Joseph J. Daniel,1848,Supreme Court
+336505,Umberto Masetti,Geoff Duke,1950,Gilera
+299303,Joe Donnelly,Joe Manchin,"April 12, 2018",EPA
+203104,Peter Gauweiler,Ali Larijani,2010,Iran
+555552,Stephen K. Amos,Hannah Gadsby,annual,Sydney
+480708,Henry Newton Brown,Frank McNab,"April 1, 1878",Lincoln
+381098,Melissa McCarthy,Kristen Wiig,2016,SNL
+222993,Little Milton,Oliver Sain,over fifty years,St. Louis
+568133,Valentin Härtl,Johannes Hegar,1917,Munich
+329982,James Hartley Ashworth,Robert Blyth Greig,1927,the Royal Society of Edinburgh
+220589,Domenic Cassisi,Kane Cornes,the start of 2008,the Port Adelaide
+168703,Jenni Meno,Greta Crafoord,2017–18 season,California
+404155,A. Philip Randolph,W. E. B. Du Bois,the 20th century,South
+560068,Frank DiPino,Mike Madden,August,the Milwaukee Brewers
+570145,Valentin Demyanenko,Yuriy Cheban,Two days,C–1
+292467,Frank Phillips (cricketer),Oswald Samson,August 1903,Somerset
+27506,Robert Hood,Jeff Mills,the early 90s,Regis
+212075,Albert Pierrepoint,Harry Allen (executioner),28 January 1953,London
+198682,Colin Barnett,Richard Court,2001,House
+73239,Graeme Martin,Noel Robins,2000,Florida
+256139,Albert Einstein,Albert Moll (German psychiatrist),the mid-1920s,Europe
+409903,Denwin Farmer,Kabelo Seriba,September 2013,England
+156350,Ottilie Abrahams,Kenneth Abrahams,the early 1960s,Cape Town
+388240,Chris Jericho,Kevin Henry,August 2009,Breaking Point
+569866,Judith Butler,Paul Rabinow,October 2004,Berkeley
+235653,Sally Shaywitz,Ken Pugh,the 1990s,Yale
+530253,Joseph F. Traub,Alfred Aho,2006,Columbia University
+210295,Ernst Gideon von Laudon,"Joseph II, Holy Roman Emperor",1776,Habsburg
+290239,Peter Jacques,Michael Smith (darts player),the year,Barnsley
+416405,Louis Aragon,André Breton,late November,Paris
+72516,Steve Sampson,Steve Sampson,1996,the 1998
+396420,Robin van der Laan,Robin van der Laan,July 1995,Derby
+247267,George Augustus Bennett,Thomas Frederick Colby,the late 1830s,Ordnance
+54241,Stephen Schwartz (composer),Eugene Levy,1972,Toronto
+38251,Steve Tensi,Jim LeClair (quarterback),1968,Denver
+425671,Michael Reiziger,Mark Viduka,the following close season,the Riverside Stadium
+163312,Patrick Marleau,Joe Thornton,the first season,Clowe
+204301,Soheil Ayari,Didier André,2010,Le Mans
+592858,Dominika Cibulková,Monica Niculescu,2009,Stanford
+28999,Francesco Barbieri,Andrea Voltolini,16 years,Verona
+163462,Michelle Obama,Barack Obama,"January 20, 2009",Dallas
+466842,Kevin Mitchell (boxer),Lee Selby,two months,Brook
+506612,Humberto Carrillo,Cedric Alexander,February 14,Murphy
+222406,Sidney Bechet,Jimmy Archey,the early 1950s,Holland
+381825,Joe Mantello,Sally Field,2017,Broadway
+503167,Daniel Brühl,David Kross,"October 9, 2008",Krabat
+465589,Slobodan Milošević,Vojislav Koštunica,October 2000,DOS
+587569,Alexandr Zaboev,Sergei Kulbach,2014,Estonia
+67550,Buck Clayton,Dicky Wells,1939,Carnegie Hall
+110124,Slavoljub Muslin,Saša Mrkić,January 2017,Serbia
+292160,Memphis Minnie,Furry Lewis,the 1920s,Memphis
+158360,Arthur Sullivan,W. S. Gilbert,8 June 1889,London
+366072,Correll Buckhalter,Brian Westbrook,2003,Eagles
+147721,Jakob Becker,Carl Rahl,1823,Munich
+508933,Colin Cowdrey,James Knott (cricketer),the last day,England
+450564,John Wilson (Scottish writer),William Lockhart (MP),1817,Europe
+446931,Andrea Ferro,Marco Coti Zelati,Later that year,Milan
+425728,Ben Chilwell,Timo Werner,the following season,Chelsea
+71578,Manuel Felguérez,Teresa del Conde,1990,Aguascalientes
+147338,Thomas Hayton Mawson,Henry Hornbostel,1910s,Pittsburgh
+535716,Caroline Augusta of Bavaria,"Francis II, Holy Roman Emperor",1816,Austria
+564509,Steve Paxton,Judith Dunn,five years,Viola Farber
+229613,Ronald Reagan,Gerald Ford,1924,United States
+478779,"William Talbot, 1st Earl Talbot","William Talbot, 1st Earl Talbot",5 October 1762,Wilkes
+328727,Paul Éluard,Max Ernst,1922,Paris
+307173,Barbara Anderson (writer),Jenny Bornholdt,25 years,New Zealand
+385896,Ron Klimkowski,Rob Gardner (baseball),April 1971,Athletics
+290813,Jermaine Pennant,Robert Pires,7 May 2003,Southampton
+529866,Frederick McCubbin,Dora Wilson,1859,Melbourne
+544874,Paul Lo Duca,Brad Penny,That day,Florida
+527010,Sarah Gadon,Tracy Letts,1951,Ohio
+349734,Renée Soutendijk,Rutger Hauer,1980,Verhoeven
+278857,Joshua Garnett,John Theus,49ers,Cooper
+56229,Aleksey Ovchinin,Christina Koch,"March 14, 2019",ISS
+387977,Robert Traylor,Jumaine Jones,August 2001,Philadelphia
+281689,Ulysses S. Grant,Charles Smith Hamilton,1872,the Republican Party of Wisconsin
+210052,John Fitzgerald (tennis),Chris Johnstone,1982,Melbourne
+343361,Louis F. Polk Jr.,Robert O'Brien (executive),1968,General Mills
+534877,Pete Postlethwaite,Bill Nighy,the mid-1970s,Liverpool
+383180,Gwen Torrence,Wilma Rudolph,2019,U.S.
+381966,Duane W. Martin,Dieter Dengler,2017,Bremerton
+231317,Paul Richards (baseball),Ken Boyer,"May 28, 1971",Braves
+303588,Richard Sherman (American football),Pete Carroll,the season,Maxwell
+506703,Eric Young (wrestler),Orlando Jordan,February 24,Orlando
+379987,Hazar Ergüçlü,Tuba Büyüküstün,2015,Tuba
+453461,John Barrymore,Greta Garbo,"May 3, 1938",Crawford
+174374,J.D. Malone,Dan May,2011,Hampton
+487887,Sarah McLachlan,Bryan Adams,"February 28, 2008",Toronto
+579492,Steven Spielberg,George Lucas,March 2001,Center
+149193,John F. Street,George X. Schwartz,1984,Council
+327106,Bernhard Dernburg,Hermann von Hatzfeldt,1915,Belgium
+335946,Mordecai Wyatt Johnson,Cloyd H. Marvin,1948,Georgetown
+221188,Charles Thomas (baseball),Dan Meyer (pitcher),the  season,Hudson
+510476,Dick Hall (baseball),"Rick Williams (baseball, born 1956)","April 12, 1961",Athletics
+420448,Bill Laimbeer,Dennis Rodman,1988,the Detroit Pistons
+417964,Charles Bronson,Tony Curtis,1970,Columbia Pictures
+519045,Skitch Henderson,Les Brown (bandleader),the late 1950s,Los Angeles
+255612,Abdullah al-Ahmar,Mustafa Tlass,the early years,Shihabi
+415862,Oleksandr Moroz,Petro Symonenko,late 2002,Ukraine
+261504,Johnny Brandon,Andy Razaf,1978,Broadway
+346655,Daniel Topolski,Graeme Hall (rower),1975,Great Britain
+388142,Shannon Woodward,Johnny Lewis,August 2007,Boulder
+463435,Aleister Crowley,Charles Stansfeld Jones,13 months,Smith
+339464,Ezio Leoni,Chet Baker,1958,Italy
+209251,Cristiano Ronaldo,Ángel Di María,2010,Mesut
+243501,Trevor Chappell,Don Weser,1 February 1981,Australia
+260794,Sumire Natsu,Natsumi Maki,"August 12, 2017",Fujigasaki
+216953,Tobias Wendl,Tobias Arlt,2018,Pyeongchang
+191708,François Cevert,Jackie Stewart,the year,the United States
+292107,Jack Nicklaus,Gary Player,the day,Palmer
+346140,Johnny O'Keefe,Johnny Devlin,1974,Australia
+584551,Reba McEntire,Jamie O'Neal,2001,Evans
+548003,Eugene Lanceray,Karl Eduard von Liphart,the 1890s,Russia
+522269,Frederic M. Richards,Thomas A. Steitz,1975,Yale University's
+303509,Jay Gruden,Preston Brown (linebacker),2018,Smith
+450705,Peter Hennessy,Paul Vallely,the 1970s,London
+560016,Catherine Mawer,Charles Mawer,43,Leeds
+418479,F. Scott Fitzgerald,Gertrude Stein,the 1920s,Paris
+217246,Cha Jun-hwan,Shun Sato (figure skater),2023,Korea
+212505,Britt Baker,Kylie Rae,"May 25, 2019",Rhodes
+135201,Asad Chowdhury,Rafiq Azad,the generation of 1960s,Bangladesh
+377095,Karl Seglem,Ole Mofjell,2013,Kraków
+278696,Robert Bourassa,Marcel Léger,1985,Quebec
+310003,Anthony Kenny,Steven Lukes,1967,Oxford
+432689,Chris Bonington,Mick Burke (mountaineer),1975,Everest
+555461,Billy Conigliaro,Don Pavletich,October 10,Sox
+308344,James P. Coleman,Strom Thurmond,May 6,Mississippi
+398817,Valerie Bertinelli,Wendie Malick,June 2010,Cleveland
+281228,Humphrey Bogart,Mary Boland,1925,Broadway
+559297,Hiroyoshi Tenzan,Yujiro Takahashi,"January 4, 2015",Tokyo
+319940,Robert Charleton,Henry Pease (MP),1854,Saint Petersburg
+559325,Scott McCaughey,Michael Stipe,"the last two numbers.n/aApril 1, 2006 – Athens",Rockville
+166452,John Stanislaus Joyce,Murray Gell-Mann,2 February 1882,Dublin
+292346,Brendon Todd,Chris Kirk,2005,the University of Georgia
+420867,Mark Wotte,Martin Jol,the 1998–99 season,Utrecht
+575865,Lawrence Alma-Tadema,Karel Ooms,12 March 2018,Academy
+413408,Kilian Fischhuber,David Lama,early 2008,Woods
+518634,James Taylor,Lyle Lovett,2012,Winchester
+48562,Alan Techer,Joshua Hook,2018–2019,France
+158712,Chandler W. Johnson,Harold G. Schrier,February 23,Company
+251463,Jeffrey R. Holland,Quentin L. Cook,the early 1960s,England
+192483,Ceri Richards,Lynton Lamb,1959,London
+588278,Geoff Howarth,Alan Hill (cricketer),12 July,Derbyshire
+200248,Marcantonio Franceschini,Luigi Quaini,1696,Modena
+195387,Bernadette Mayer,Ted Berrigan,the early 1960s,Coolidge
+309897,Dave Hickey,Jerry Saltz,2011,Tampa
+27076,Chad Pennington,Chad Henne,"November 15, 2010",Miami
+240248,Elsie de Wolfe,Elsie de Wolfe,5 January 2012,California
+420149,Wendell Harrison,Kenny Cox,the 1980s,Detroit
+339530,Friedrich L. Bauer,John Backus,1958,Zurich
+283942,Geoff Greenidge,Mark Faber,1974,Cambridge
+180168,Jim Standen,Bobby Moore,one year,Wembley
+102233,Johanna Harwood,Berkely Mather,1962,Bond
+440839,Nikolai Berdyaev,Semyon Frank,November 1922,Germany
+422596,Juan Martín del Potro,Juan Mónaco,December,Spain
+293739,Charles Kynard,"Ivan ""Boogaloo Joe"" Jones",1969,U.S.
+325813,Carl Schlechter,Oldřich Duras,1908,Vienna
+426228,Constant Lambert,William Walton,the late 1920s,London
+590411,Michelle Obama,Barack Obama,22 April 2016,U.S.
+478212,Robert Lawrence (martyr),John Houghton (martyr),4 May 1535,Doms
+496467,Riley McCarron,Cole Croston,"March 27, 2017",Iowa
+180137,Loretta Weinberg,Michael Wildes,the 37th District,Englewood
+426322,William 'Joey' Hollebone,John 'Chow' Hayes,the late 1940s,Sydney
+350918,"Whitney North Seymour, Jr.",Muriel Siebert,1982,U.S.
+550868,Bradbury Thompson,Paul Rand,the 1950s,Yale
+531170,Jill Irving,Tina Irwin,2019,Lima
+302934,Ernest George,Harold Peto,1882 to 1887,London
+295684,Abram Yampolsky,Georgy Catoire,1924,Moscow Conservatory
+105489,Joseph Masson,Joseph Masson,1833,Terrebonne
+58775,Leonard Ratner,Elliott Carter,the 1950s,Tanglewood
+353607,Corey Haim,Bob Feldman,1987,License
+286056,Bernard Hill,Ed Stoppard,2006,UK
+195994,Gaby Casadesus,Louis Kentner,1983,Europe
+593315,Antoinette Sterling,Clara Butt,January 1894,Chappell
+402361,Arnold Schoenberg,Karol Rathaus,May 1938,Düsseldorf
+444755,Clyde Cameron,Don Dunstan,1933,Labor Party
+210877,Carrie Chapman Catt,Aletta Jacobs,1912,Philippines
+187719,Hans Bellmer,Yves Tanguy,A year later,Paris
+91992,Anastasia Rodionova,Jelena Janković,31 December 2010,Brisbane
+531190,Joseph Calvet,Reine Flachot,the early 1970s,France
+197931,Juan Carlos Monedero,Íñigo Errejón,2014,Podemos
+359855,Hidetoshi Nakata,Akira Narahashi,1996,J1 League
+6584,Kyle Anderson (basketball),"Tony Parker (basketball, born 1993)",2012,UCLA
+197932,Carolina Bescansa,Íñigo Errejón,2014,Podemos
+340142,Theodore Roszak (artist),Philip Guston,1960,the United States
+329246,Anatol Tschepurnoff,Max Euwe,1st,Paris
+232173,Denise van Outen,Johnny Vaughan,January 1999,Brook
+576968,David Dickson (footballer),Lisa Jane Weightman,1994,Preston
+187402,Erben Wennemars,Shani Davis,A week later,Calgary
+295733,Martin Heidegger,Edmund Husserl,four years,Bonn
+271190,Mel Cummin,Albert Brisbane,Sunday,New York
+516142,Mike LaValliere,Mike Dunne (baseball),1987,Pittsburgh Pirates
+497942,Carlos P. Garcia,Juan Alcazaren,"May 18, 1959",Foreign Affairs
+527304,Joaquín Susvielles,Juan Manuel Llop,28 November,Atlanta
+181987,Bunny Briggs,Chuck Green,his early years,Sims
+354430,Terror Fabulous,Mega Banton,1988,Determine
+97588,Kendo Kashin,Bob Sapp,"September 25, 2010",Japan
+267172,Takao Saito,Yoshihiro Tatsumi,one month,Osaka
+347202,Antoine Henri van den Hurk,Antoine Henri van den Hurk,1976,Medan
+579465,Sam Moore,John Belushi,1988,Thurston
+421627,Mariusz Siudek,Dorota Siudek,the 2010–2011 season,Toruń
+550504,Simone Manuel,Katie Ledecky,3:31.89,U.S.
+406727,John C. Stennis,James Eastland,October 1955,Mississippi
+358030,Michael Kahn (theatre director),Alan Rickman,1994,Oxford
+347619,Harold Ramis,John Candy,1976,SCTV
+577046,Earl G. Harrison,Joseph Grew,July 1945,Germany
+534279,Marcelo Caetano,Salgueiro Maia,25 April 1974,Largo
+394809,Dwayne De Rosario,Aron Winter,January 2011,Frei
+320377,Johann Nepomuk Zwerger,Jakob Becker,1861,Frankfurt
+479756,Ellie Goulding,Chris Isaak,7 September 2015,Adams
+72685,Gregory Peck,Bruce Spence,1997,Britain
+558248,Valeri Polyakov,Musa Manarov,25 days,Mir
+420749,Michael Adams (chess player),Gata Kamsky,1995,Anand
+418557,Otto Christian Archibald von Bismarck,Gelasio Caetani,the 1920s,Mellon
+518149,Ghazaros Aghayan,Levon Shant,early 20th century,Leo
+316506,Allart Pieter van Jongestall,Paulus van de Perre,1653,Commonwealth
+534617,Candy Reynolds,Tanya Harford,1983,Richmond
+82519,Gordon Hayward,Ronald Nored,his freshman season,"Butler, Mack"
+284213,Marshall Coleman,Oliver North,1994,Virginia
+542523,Morton Feldman,Earle Brown,weekly,57th Street
+327433,Aleksandra Ekster,David Burliuk,1916–1917,Moscow
+481285,Doug Williams (wrestler),Scott Steiner,April 17,Magnus
+274477,Stevie Wonder,Leslie West,August 1973,Midwestern United States
+383529,Jason Kenney,Peter MacKinnon,2019,Alberta
+380335,Koen De Bouw,Zhuo Tan,2016,Coffee
+546492,Michelle Tumes,Chris Tomlin,2002,Rebecca St. James
+409212,Douglas Fairbanks Jr.,Noël Coward,September 1964,London
+394543,Song Seung-heon,Lee Min-woo,January 2007,Osaka
+407821,George Clancy (rugby union),John Lacey (rugby union),October 2017,IRFU
+224172,Jacques Coursil,Sonny Criss,age 23,Paris
+381097,Khine Thin Kyi,Lu Min (actor),2016,Myanmar
+291343,Cedric Bixler-Zavala,Omar Rodríguez-López,the age of 13,Texas
+495098,Jayron Kearse,T. J. Green,pro day,Clemson
+569366,Louis Moilliet,August Macke,August,Tunisia
+171987,Stuart Pearce,Micah Richards,June 2012,the 2012
+384563,Karina Gould,Lia Tadesse,2021,AMC
+236215,Cristiano Ronaldo,David Villa,17 July 2010,London
+242798,Jerry Granelli,Jay Clayton (musician),1977,Knapp
+164975,Taurus Sykes,Hasim Rahman Jr.,"June 14, 2007",Rochester
+89143,Jonathan Gresham,Sonjay Dutt,"April 1, 2022",AEW
+513084,Charlie Benante,Rex Brown,1981,Arlington
+294401,Jack Carlin,Ryan Owens (cyclist),2018,Apeldoorn
+392681,Ellsworth Kelly,Richard Prince,February 2017,Popup
+265458,Tatiana Tarasova,Arseni Markov,the 2000–2001 season,Newington
+389295,Ernst Ludwig Kirchner,Erich Heckel,1914,Berlin
+19940,Luca Cadalora,Martin Wimmer,Between 1986 and 1990,Marlboro
+274289,Alwin Nikolais,Laura Foreman,1971,New York
+525569,Gideon Rosen,Esther Safran Foer,1999,Princeton
+372789,Michael P. Kearns,Byron Brown,2009,Buffalo
+470910,Paul McCartney,Ringo Starr,18 March 2011,UK
+339533,Heinz Rutishauser,John Backus,1958,Zurich
+406340,Nguyễn Phúc Mân,Chau Van Tiep,October 1782,Saigon
+318408,Pierre Le Roy,Robert Robin,1817,Paris
+218560,Howard Ferguson (composer),Harold Craxton,the age of 18,the Royal Academy of Music
+197426,Leon Wagner,Al Cicotte,the 1960 season,Toronto
+186383,Geoffrey Lowndes,Ronnie Aird,A month later,Northamptonshire
+159786,James Pierpont (minister),Cotton Mather,1718,Yale
+44022,Francisco Pizarro,Francisco Pizarro,"June 26, 1541",Lima
+509237,Nicole Brown Simpson,Ron Goldman,"June 12, 1994",Los Angeles
+491895,Hanley Ramírez,Scott McGough,July 27,the Los Angeles Dodgers
+365360,Mariano Zabaleta,Gastón Gaudio,2003,Acapulco
+288255,Stafford LeRoy Irwin,Roscoe B. Woodruff,four years,West Point
+293242,Georges Pouchet,Ernst Tiegel,1875,France
+248092,Francisco Mela,Zuill Bailey,2013,Concord Records
+297730,Denis Charles,Elliott Sharp,the 1980s,New York
+406967,Marat Mychaels,Rob Liefeld,October 1992,Brigade
+162376,Gaetano Casanova,Zanetta Farussi,1725,Venice
+251820,Thomas Eagleton,Claire McCaskill,February 2007,Missouri
+11580,Kellen Winslow,Ray Nitschke,1995,U.S.
+199481,Josh Hamilton (actor),Lily Rabe,2012,Manhattan
+535140,Harold Preciado,Chinedu Obasi,the pre-season,Shenzhen
+373790,Erik Seidel,Huck Seed,2010,Duke
+253033,John Holmes Jackson,Edmund Burke,1933,Burlington
+103599,Patrick Brontë,Emily Brontë,1812,Yorkshire
+511692,Sally Gunnell,Wendy Jeal,13.29,UK
+308714,Jack Gilford,Paul O'Keefe,two years,the York Playhouse
+323148,Albert Chase McArthur,Frank Lloyd Wright,1892,Chicago
+65039,Anthony Addington,James Wright (governor),1778,Chatham
+417884,Wyclef Jean,Pitbull (rapper),2006,U.S.
+235381,Syd Coventry,Sid Dockendorff,late June,Richmond
+298548,William Van Til,William Van Til,1939,Columbus
+60510,Selahattin Demirtaş,Figen Yüksekdağ,4 November 2016,Ankara
+294498,Mike Bernardo,Andy Hug,"March 16, 1997",K-1 Kings '
+554715,Stephanie Beacham,Pam Ferris,The following year,ITV
+205608,Dick Giordano,Jim Aparo,March 1982,DC
+196905,Ludivine Sagnier,Nicolas Bedos,2013,Paris
+18736,Norman Bel Geddes,Norman Bel Geddes,"October 31, 1922",New York City
+513500,Adriano Panatta,Phil Dent,1976,Wimbledon
+353587,George Lucas,Annabelle Davis,1987,London
+318765,Parley P. Pratt,Sidney Rigdon,1830,Mayfield
+433183,Kathy O'Rourke,Erin Carmody,2011,Prince Edward Island
+325300,Wilbur Wright,Hart O. Berg,1906,France
+324088,Russell Henry Chittenden,Lafayette Mendel,1899,Yale University
+120573,D. Lowell Jensen,Stephen Breyer,"July 24, 1997",California
+40845,Eric Green (tight end),Gary Clark (American football),the early 1990s,Pittsburgh
+446531,Isabela Onyshko,Ellie Black,Later that year,Canada
+193260,Meyer Vaisman,Jeff Koons,1986,New York
+529056,Cheteshwar Pujara,Chetan Sharma,2020,India
+224124,Malcolm Macdonald,Don Revie,April 1975,Beattie
+256611,Tendayi Darikwa,Carl Jenkinson,the season,Forest
+294810,Buckminster Fuller,Louis Kahn,1946 to 1948,Yale University
+42377,Joseph Nollekens,Richard Sterne (bishop),24 November 1713,County Tipperary
+280418,John Garcia Thompson,Gregg Weaver,2012,Great Britain
+225094,Judith Jagdmann,Jerry Kilgore (politician),2002,Virginia
+193681,Earle Bruce,John Cooper (American football),1987 to 1990,Ohio State University
+444711,Betty LaDuke,Betty LaDuke,1959,California
+569020,Declan Affley,George Golla,1967,Henderson
+351555,Michael Williams (actor),Judi Dench,1983,London
+270839,William S. Hebbard,Irving Gill,1901 to 1904,San Diego
+380985,Dakota Johnson,Rebel Wilson,2016,U.S.
+538643,Milton Babbitt,Maurice Peress,her years,NYU
+436057,Edward Weston,Ansel Adams,the early 20th century,U.S.
+560118,John Morrison (wrestler),Ricky Ortiz,May 22,SmackDown
+567202,"Steve Thompson (footballer, born 1989)",John McCombe,the 2008–09 season,Middlesbrough
+180328,Angela Rippon,David Frost,1983,Ireland
+174273,Greg Hahn,Bob Zany,2006,Roy Wood
+290051,Ernest MacMillan,Healey Willan,1948,the University of Toronto
+60611,William R. Linfoot,"Guillermo Gracida, Jr.",1977,U.S.
+489936,Evgeni Malkin,Kris Letang,"January 3, 2011",Marc
+435596,Harry Treadaway,Rose Leslie,2014,South
+246872,Sam Bradford,Carson Wentz,2016,Eagles
+448556,Mare Winningham,Mike Leigh,1995,Georgia
+410802,Kathy Mattea,Hugh Moffatt (singer),1982,the Bluebird Cafe
+421930,Isaac Herzog,Eitan Livni,2015,Labor Party
+301559,Harry Borrer Kirk,Thomas Kirk (botanist),1863,Auckland
+191268,Michael C. Hall,Marisa Tomei,2014,Broadway
+532094,Herbert von Karajan,Fritz Reiner,the 1960s,Georg Solti
+315625,Cristóvão de Figueiredo,Gregório Lopes,1533,Lamego
+166814,Fritz Streletz,Heinz Kessler,12 May 1992,Moscow
+499667,Peter Jacobson,Bill Kurtis,20 years,Chicago
+280126,Eavan Boland,Derek Mahon,1974,Dublin
+414675,Eric Freeman (cricketer),John Cahill (footballer),his first season,England
+300464,Chandu Borde,Vivek Jaisimha,1967–68,Australia
+428220,Heryanto Arbi,Peter Gade,the same year,the All England
+82027,John McLaughlin (musician),Tony Williams (drummer),February 1969,Hancock
+292191,Edgard Clemente,Jim Stoops,"September 7, 1998",Colorado
+534755,Samantha Salas,Rhonda Rajsich,October 2013,11–4
+588485,David Sanborn,Billy Hart,2014,Hollywood
+550050,Alec Douglas-Home,B. J. Vorster,January 1968,South Africa
+443569,Tom Blackaller,Dennis Conner,1983,Liberty
+387422,Louis Chevrolet,Ferenc Szisz,October 1905,Long Island
+585667,Karl Wolfskehl,Alfred Schuler,the next year and a half,Munich
+544853,Andrew Freedman,Joe Kelley,That day,McGraw
+425792,Roderick Strong,Tyler Breeze,the following weeks,Buddy Murphy
+125362,Richie Sexson,Shane Nance,"December 1, 2003",Arizona
+309499,Richard Rufus,"John Robinson (footballer, born 1971)",the late 1990s,Charlton
+388836,Jennifer Hermoso,Lieke Martens,August 2021,Barcelona
+28078,Michael Bruno (economist),Michael Bruno (economist),1963,Jerusalem
+578098,Frederick the Fair,"Albert II, Duke of Austria",the summer of 1228,Austria
+549963,Irene Savidge,Irene Savidge,23 April 1928,Hyde Park
+407330,Cameron Ciraldo,Jarrod Sammut,October 2009,Portugal
+185580,Romain Haguenauer,Patrice Lauzon,A few weeks later,Montreal
+202878,Patrik Andersson,Niklas Skoog,successive years,Malmö
+462793,Natasha Hamilton,Natasha Hamilton,3 July 2021,England
+52248,Juan Vicente Gómez,Cipriano Castro,December 1908,Europe
+192467,Friedrich Schneider,Ignaz Moscheles,four years,Leipzig
+200404,Zinedine Zidane,Roberto Carlos,14,Spain
+529426,Anouk Sterk,Christina Wheeler,the year,Nuriootpa
+290982,George Alexander (actor),Henry Arthur Jones,April 1894,London
+198074,Molly Goodman,Katrina Werry,2017,Australia
+346195,George Terry (musician),Eric Clapton,1974,Burglar
+591237,Petróczy-Kármán-Žurovec,Petróczy-Kármán-Žurovec,1928,World War I
+303529,Daryl Washington,Ken Whisenhunt,the regular season,Acho
+159546,André Haefliger,Peter Hilton,2007,Bern
+584304,Ralph Edwards,Jim Jordan (actor),1966,Hollywood
+289614,George Younce,Glen Payne,1979,Talley
+258942,Andrew Loog Oldham,Edward D. Easton,1963,Oldham
+524023,Aaron Harrison,Nigel Hayes,their first seasons,Europe
+323606,Louisa Stevenson,Christian Guthrie Wright,1896,Edinburgh
+510345,Giannina Arangi-Lombardi,Francesco Maria Bonini,the late 19th century,Italy
+11399,Pierce Brosnan,Daryl Hannah,2006,Malibu
+480960,Tom Carroll (infielder),Russ Snyder,"April 12, 1959",Yankees
+506366,Gene Snitsky,Al Snow,August 7,Team
+504377,Tsukasa Fujimoto,Ayako Hamada,2012,Kana
+512467,Henry Grimes,Peter Kowald,the years,Wadada
+231780,Michael Delany,Neil Brooks,1982,Brisbane
+516820,Viktor Korchnoi,Vlastimil Hort,1970,Belgrade
+380973,Cecily Strong,Nasim Pedrad,2016,SNL
+114921,Şehzade Mehmed Ziyaeddin,Şehzade Ömer Hilmi,2 September 1909,Bursa
+445654,Candra Wijaya,Tony Gunawan,2001,Olympic
+193178,Yakov Eliashberg,Ravi Vakil,2004,Stanford University
+293367,Arnold Székely,Zoltán Kodály,1911 to 1922,Budapest
+172962,Tennessee Ernie Ford,Pat Boone,1972,Atlanta
+544876,Bill Murphy (pitcher),Brad Penny,That day,Florida
+7610,Glenn Ordway,John Dennis (talk show host),1997,Boston
+113742,Steve Staunton,Ray Houghton,10 September 1992,Liverpool
+319420,John Tyler,Thomas Walker Gilmer,1844,U.S.
+264752,J. B. Hutto,Lil' Ed Williams,1975,Phillips
+361199,Dana International,Svika Pick,1998,Israel
+509401,Si Yi Chen,Tan Duc Thanh Nguyen,the same day,Kuta
+188314,"Walter Stewart, 3rd High Steward of Scotland","Isabella, Countess of Menteith",About 1260,Scotland
+522217,Percy Walsh,John Laurie,July 1926,London
+67070,Sreten Stojanović,Risto Stijović,1930,Niš
+297739,Bobby Previte,Paul Shapiro (musician),the 1980s,New York
+357971,Clifford Curry,Earl Gaines,1994,Shelton
+172002,Clifford P. Case,Kenneth Hand,1942,U.S.
+84765,Fredrik Lindberg,Viktor Kjäll,the spring of 2008,Karlstad
+420225,Kenny Aaronson,Max Weinberg,the 1980s,Guerra
+391986,François Mitterrand,Édouard Balladur,February 1994,France
+292167,Roger McGough,Adrian Henri,1983,Liverpool
+505431,John Henry Osmeña,Genaro Magsaysay,election day,Senate
+505404,Alan Connolly (cricketer),Ron Gaunt,February 1962,Victoria
+193768,Josef Lhévinne,Isidor Philipp,1916,New York
+289604,Fernando Silva (swimmer),César Cielo,2009,Rome
+555670,Alsy MacDonald,Alsy MacDonald,1978,Perth
+568186,Pedro Cabrita Reis,José Pedro Croft,1984,Portugal
+128271,William Smoult Playfair,Robert Hawthorn Kitson,1 July 1874,Westminster
+350662,Randy Brecker,Diane Schuur,1982,New York
+132232,Eduardo Montealegre,Daniel Ortega,2006,PLC
+570263,Giuseppe Zangara,Anton Cermak,Two months,Roosevelt
+139246,Leslie Cheung,Karen Mok,1996,Hong Kong
+226060,Olympia Dukakis,Marlo Thomas,1990,Berlin
+520706,Victoria Shaw (singer),Paul Worley,"April 15, 2008",Nashville
+512201,Randy Orton,Tyson Kidd,three months,Sin Cara
+326983,Alexander Archipenko,Vadym Meller,1914,Paris
+427373,Frankie Paul,Yami Bolo,1988,Kingston
+342552,Stuff Smith,Claus Asmussen,1966,Switzerland
+370648,Russ Emanuel,John Heard (actor),2007,P.J.
+432759,Christopher Hampton,Matthew Warchus,March 2008,London
+432003,Michael Friburger,Guillaume Fichet,1469,Paris
+361075,Leander Paes,Barry Cowan (tennis),1998,Chennai
+533486,Eveline Widmer-Schlumpf,Doris Leuthard,2020,SAFFA
+339495,Milton Babbitt,Aaron Copland,1958,Lenox
+265083,Edward H. Krebs,Bill DeWeese,November 1992,House
+298256,Raymond Berry,Jimmy Orr,the next season,Baltimore
+327277,Woodrow Wilson,Frank Polk,1916,State
+258505,Percy Fender,Arthur Carr (cricketer),the season,England
+287369,Convers Francis,Jared Sparks,1811,Harvard College
+290119,Archibald MacLeish,Cole Porter,a year,Riviera
+546161,Jerry Skinner,George Holyoake,1937,Labour Party
+391094,Manbir Singh Chaheru,Manbir Singh Chaheru,December of 1986 4 moths,KCF
+1209,Francine Busby,Brian Bilbray,"April 11, 2006",Cunningham
+494173,Jerry Seelen,Sy Oliver,"June 26, 1950",New York City
+487955,Dave Engle,Rod Carew,"February 3, 1979",Hartzell
+184144,Glenn Michibata,Todd Woodbridge,23 April 1990,Seoul
+422407,Quah Ting Wen,Amanda Lim,4:13.02,Singapore
+447718,Louis Delaquerrière,Gabriel Soulacroix,30 May 1899,Rome
+278955,Alfred S. Hart,Russell Goldsmith,1964,City National Bank
+428988,Johann Wolfgang von Goethe,Adelbert von Chamisso,the spring of 1813,Germany
+591667,Michael Collins (astronaut),Neil Armstrong,20 July 1999,KSC
+581436,Paul Outerbridge,Doris Ulmann,1916,Clarence
+318309,Richard Brinsley Sheridan,William Godwin,1814,London
+346947,Stevie Wonder,Donna Summer,the decade,Walden
+336449,Claude McLin,Ike Day,1950,Chicago
+367007,Isabeli Fontana,Daria Werbowy,2004,U.S.
+222154,John Eyre (died 1639),Dorothy Bulstrode,1611,London
+252037,Kevin Johnson (basketball),Sam Cassell,his first two seasons,NBA
+183283,Cyrille Aimée,Allan Harris (musician),January 2015,New York's
+352645,André Gagnon,Patsy Gallant,1985,Ethiopia
+123499,Abraham Lincoln,William Jayne,"October 17, 1863",Dakota Territory
+543610,Paul McCartney,Tara Browne,21,London
+390180,Melissa Manchester,Roberta Flack,December 1998,Easton
+496478,C. J. Beathard,Riley McCarron,"March 27, 2017",Iowa
+555462,Don Pavletich,Joe Lahoud,October 10,Sox
+239695,Sophie Walton,Natalie Haigh,the 2005–06 season,Leeds
+495827,Atsushi Kotoge,Daisuke Harada,"March 19, 2016",Ohara
+226530,Ernst Richter,Carl Reinecke,Between 1865 and 1867,Gewandhaus
+399132,Jerry Marotta,David Torn,June 2016,Woodstock
+181919,Joni Mitchell,James Taylor,1970s,Laurel Canyon
+18663,John Lindsay,Allison S. Davis,1967,New York
+169068,Yvon Chouinard,Dick Dorworth,1968,California
+155368,Sheila Hancock,John Thaw,2001,the Royal Festival Hall
+486451,Joe Líder,Místico,December 7,Angélico
+518013,"Albert II, Prince of Monaco",Monte Carlo,8 November 2007,Monaco
+344155,Abbie Hoffman,Tom Hayden,1968,Chicago
+578689,Leon Van der Rest,Leon Van der Rest,1923,NBB
+491671,Davey Richards,Kevin Owens,July 24,Storm
+390755,Pasquale Camerlengo,Anjelika Krylova,December 2015,Michigan
+296028,Charles Henry Gilbert,David Starr Jordan,a year,Stanford University
+307283,Anatoly Lunacharsky,Maxim Gorky,three years,Italy
+184400,Jerry Bruckheimer,Michael Bay,1998,Armageddon
+532617,Constant Lambert,Malcolm Sargent,the years from 1932 to 1936,London
+190973,Brandt Peterson,Tony Lash,1992,Hampshire
+173482,Dale Van Sickel,Royce Goodbread,1928,Gators
+265303,Michael Hussey,Shane Warne,February 2013,Queensland
+381279,Michael Shannon,Taylor Kitsch,2017,Paramount
+193196,William Alwyn,Alan Bush,1949,London
+235790,Otto Julius Bierbaum,Frank Wedekind,the end of 1890,Munich
+272875,George W. Bush,Ronald Reagan,1989,White House
+274972,António Sardinha,José Adriano Pequito Rebelo,1914,Luís de Almeida Braga
+476984,Willie Nelson,Kate Bush,3 May 2023,Spinners
+364437,Arnaldo Antunes,Marisa Monte,2002,Tribalistas
+255018,Hasan Salihamidžić,Gianfranco Zola,January,Chelsea
+495537,Marshall Morgan,John Theus,pro day,Georgia
+111818,Felipe Marino,Keith Calder,2005,USC
+352858,Vince Spadea,Brian Dunn (tennis),1986,US
+581152,Willie Mitchell (musician),Willie Mitchell (musician),1969,Texas
+468927,Kathleen Ferrier,Peter Pears,14 July 1949,Concertgebouw
+419963,Colin Addison,John Sillett,1974,Addison
+392322,Lambert Wilson,Leslie Caron,weeks,Paris
+232030,Michael Bridges,Bobby Robson,3 March 2004,Newcastle
+382118,Valentino Khan,Adil Omar,2018,Islamabad
+319096,Charles Sturt,John Finnis (captain),1838,the River Murray
+295790,Christian Griepenkerl,Carl Wurzinger,1874,Vienna
+461141,Stephanie Schmidt,Rachel Erickson,"May 19, 2021",Saskatchewan
+498289,Edwin C. Johnson,Claude Pepper,May 22,Leahy
+130482,Luca Ravanelli,Dino Zoff,between 1995 and 1999,Italy
+279943,Gabrielle Carteris,Carol Potter (actress),90210,Beverly Hills
+471150,Heather Stanning,Jessica Eddie,19 April 2015,Caversham
+357949,Whitfield Lovell,Emilio Cruz (artist),1994,Ecuador
+308977,Alexander William Stewart,Alexander William Stewart,1862,Grangemouth
+468657,Ben Hampton,Lachlan Maranta,13 October 2012,Hampton
+198537,Othella Harrington,Jerome Williams (basketball),the 1995–96 season,Georgetown
+432884,Montserrat Caballé,Roger Taylor (Queen drummer),25 November 1996,Mercury
+350517,John Montefusco,Chris Welsh,September 27,Astros
+366969,Carlos Santana,Jeff Beck,2004,Dallas
+237714,Lady Constance Bulwer-Lytton,Daisy Solomon,1909,Carwin
+467672,Johnson Beharry,Bill Stone (Royal Navy sailor),11 November 2009,Westminster Abbey
+587051,Richard Mentor Johnson,Richard Mentor Johnson,Years,South
+524470,David Speedie,Pat Nevin,1984,Chelsea
+333652,Edward R. Burke,Hugh A. Butler,1940,Nebraska
+157838,Alana Beard,Maya Moore,February 2017,Sparks
+477725,Paul McGinness,Philip Fysh,6 days,Mascot
+450415,Vladimir Ljotić,Vladimir Ljotić,12 August 1891,Belgrade
+197348,Phil Ortega,Dick Nen,the  season,Washington
+529037,Nicole Kidman,Dev Patel,2016,Hollywood
+292914,Milton Babbitt,Roger Sessions,1956,Princeton University
+41517,Bill Blankenship,Zac Taylor,2011,Tulsa
+532683,William Attwood,John F. Kennedy,1935,Choate
+456985,Zina Garrison,Charlie McNeil (American football),1987,Wimbledon
+455417,Michael Gove,Jeremy Hunt,late 1983,Oxford
+75437,Leon Russell,Father John Misty,2011,U.S.
+343288,Nan Martin,Zen Gesner,1968,Tarzana
+505309,Johann Friedrich Reiffenstein,Johann Joachim Winckelmann,1767,Italy
+237022,Gertrude Lawrence,Lynn Carey,1941,Broadway
+297097,Georg Kulenkampff,Walter Gieseking,summer,Berlin
+302596,Johan Edfors,Kalle Brink,1993,Switzerland
+346433,Neil Diamond,Jack Whitten,1974,West Hollywood
+444608,Michael Jagosz,Ole Beich,1983,Guns
+430979,Anthony Knockaert,David Stockdale,this season,Brighton
+333105,Casey Stengel,Joe Stripp,1938,Bees
+322163,Antonín Dvořák,Karel Bendl,1884,Prague
+187837,Shirley Thomas (athlete),Joan Baptiste,A year later,Helsinki
+318314,Karl August Varnhagen von Ense,Karl August Varnhagen von Ense,1814,Berlin
+323849,Théophile Deyrolle,Alfred Guillou,1898,Brittany
+338913,Albert Anastasia,Carlo Gambino,1957,Manhattan
+511464,Barbara Hofland,Sara Coleridge,summer 1828,Wales
+495072,Jackson Browne,David Crosby,"March 10, 2011",Tucson
+459672,Larrissa Miller,Emily Whitehead,2016,Australia
+335888,Pablo Palazuelo,Wassily Kandinsky,1948,Paris
+254174,Jamaal Jackson,Nick Cole,the 2009 season,Denver
+181007,Giulio Capiozzo,Jimmy Owens (musician),this year,Rome
+448330,Nathan Green (rugby league),Brenko Lee,23 September,NRL
+532858,Danny Kaye,Eve Arden,the latter half of 1941,Juilliard
+574299,Colin Slade,Dan Carter,2016,Europe
+449940,Rick Danko,Levon Helm,the early 1980s,Linden
+551513,John Pilger,Tariq Ali,2003,Sweden
+181278,Fernando Meligeni,Renata Kuerten,1996,Brazil
+592551,Ed Fitz Gerald,Lou Berberet,1956,Washington
+578889,Trevor Francis,Kenny Burns,1970,Birmingham City
+424080,Pony Poindexter,Pony Poindexter,the early 1970s,Kaiserslautern
+445250,Carolyn Hester,Joan Baez,the 1950s and 1960s,Odetta
+160195,Wolfgang Heinz (actor),Ernst Busch (actor),1960,Stockholm
+236678,John Fozard,Frederick James Camm,1965,Hawker
+524375,Ronnie Van Zant,Steve Gaines,"October 20, 1977",McComb
+167284,Rylan Bannon,Zach Pop,"July 18, 2018",the Los Angeles Dodgers
+408003,Patsy Kensit,Danny Trejo,October 2022,Renegades
+255724,Aurel Stein,Sven Hedin,the first decade of the 20th century,Xinjiang
+272009,Joe Harriott,Shake Keane,Sunday,Henderson
+400761,Keith Gillespie,Paul Dickov,March 2004,Spain
+509403,Myuran Sukumaran,Si Yi Chen,the same day,Kuta
+554784,Tigre Blanco,Mr. Águila,1999,CMLL
+215594,Bethanie Nail,Judy Peckham,1978,Edmonton
+250361,Lee Konitz,Paul Bley,1976,New York City
+224486,Alexander Alekhine,Frank Marshall (chess player),1914,Paris
+465175,Adriano Castellesi,Virgil,1502,England
+386892,Juraj Sagan,Juraj Sagan,April 2021,Monaco
+419034,Giancarlo Vigorelli,Giuseppe Balbo,the 1950s and,Seborga
+369145,Don Willett,Rick Perry,2006,Court
+79181,Hendra Setiawan,Mohammad Ahsan,2020,Thailand
+153171,Susannah Martin,Elizabeth Howe,"July 19, 1692",Salem
+441534,Fredy Montero,Sammy Ochoa,"October 15, 2011",Sounders
+206180,Andrzej Celiński,Andrzej Kijowski,22 January 1978,Tadeusz Mazowiecki
+225502,Garrincha,Pelé,2014/09/23,Brazil
+457354,James Devaney,Judah Waten,three weeks,Queensland
+178911,Paul Mazursky,Juliet Taylor,1982,a Golden Globe
+7238,Andrew Montour,Conrad Weiser,April 1743,Shamokin
+185994,Anita Pallenberg,Keith Richards,February 1977,Toronto
+66982,Philippe Hériat,Antonin Artaud,1927,Napoléon
+539327,Anne Keothavong,Elena Baltacha,the following week,Estonia
+369695,Karl Anderson,Joey Ryan (wrestler),2007,Australia
+512461,Marshall Allen,Eddie Gale,the years,Wadada
+280121,Scott Steiner,René Duprée,April 28,France
+325025,Vasilije Trbić,Jovan Dolgač,1905,Veles
+386949,Manila Luzon,Jan Sport,April 2023,Austin
+205201,Barnett Freedman,Edward Ardizzone,1940,France
+355565,Saddam Hussein,Jesse Jackson,1990,Baghdad
+201257,Salo Landau,Max Euwe,1935,Alekhine
+521590,Herb Steinohrt,Tom Gorman (rugby league),1924,Queensland
+343218,Raymond Keene,Jan Timman,1967,Jerusalem
+545499,William Gottlieb Schauffler,William Goodell (missionary),That summer,Boston
+267597,Steve Mariucci,Rich Eisen,Thursday,Lexus
+254398,Chinami Yoshida,Mari Motohashi,2016,Japan
+194096,Sandra Seacat,Joanne Baron,another year,California
+235233,Karl Mueller (rock musician),Dan Murphy (musician),age 20,Minneapolis
+576717,Sohla El-Waylly,Claire Saffitz,2016,YouTube
+402220,Wang Yun (Han dynasty),Lü Bu,May 192,Chang'an
+484272,Cade Cunningham,Day'Ron Sharpe,"August 5, 2019",Montverde
+349979,Jocky Wilson,Angus Ross,1981,Scotland
+330814,Ed Don George,Gus Sonnenberg,"December 10, 1930",Los Angeles
+161479,Percy Chapman,Jack Hobbs,1930,England
+213272,A. C. H.,Silas Young,May 9,BCB
+336983,Walter Serauky,Rudolf Eller,1954,Hellmuth
+211608,Sharon Prins,Deta Hedman,2013,Anastasia
+585690,María Rosa Gallo,Norma Aleandro,three years,China
+330166,Walter Packard,Walter Packard,1927,Mexico
+342054,Eric Porter,Paul Rogers (actor),1965,RSC
+541418,Raquel Zimmermann,Liya Kebede,May 2009,Natalia
+336942,Adolf Busch,Peter Serkin,1951,Marlboro
+416608,Chub Collins,Mox McQuery,June 1885,Indianapolis
+495018,Garett Bischoff,Devon Hughes,March 10,Knox
+384369,John Malkovich,Vince Vaughn,2020,Arkansas
+182410,Maureen Drake,Miho Saeki,2002,Australia
+296091,Nelson Ritsema,Freek Robbers,2019,Rotterdam
+532349,Phenkanya Phaisankiattikun,Ornawee Srisahakit,2018,South Korea
+419881,Larry Coryell,Clark Terry,the 1970s,Florida
+292270,Phylicia Rashad,Audra McDonald,2004,Broadway
+505198,Brian Blessed,Ronald Hines,2 April 1975,London
+416194,Edward Oldcorne,Henry Garnet,September 1605,Digby
+250369,Kenny Davern,Bob Wilber,the next  year,UK
+286355,Fabrice LeClerc,Samuel Barathay,1992,Barcelona
+356923,Michael L. Marin,Frank Veith,1992,the Montefiore Medical Center
+498276,John Nance Garner,James F. Byrnes,May 22,Leahy
+585956,Marcos Ondruska,Michael Chang,1997,Wimbledon
+66015,William McKinley,Alexander Montgomery Thackara,1897,France
+301085,Anita Mui,Andy Lau,1990,Taipei
+434595,Jacob Moon,Jacob Moon,2006,Hamilton
+293937,Jonathan Albaladejo,Mike Dunn (baseball),September,Yankees
+328615,Sara Cahier,Artur Bodanzky,1922,New York
+225313,Feng Yuxiang,Yan Xishan,June 1928,Beijing
+583915,Joeri de Groot,Karel Dormans,2001,Seville
+218661,Camille Saint-Saëns,Charles Gounod,January 1870,Paris
+413110,Mickey Mantle,Edward M. Kennedy Jr.,early 1974,Washington
+23468,Christoph Caskel,Mauricio Kagel,1976,Düsseldorf
+305057,Christel Felgner,Barbara Stolz,1964,Tokyo
+493267,Jack Marshall (ice hockey),Frank Foyston,"June 15, 2011",Al Arbour
+490406,Mitt Romney,Ron Paul,"January 7, 2012",Stephanopoulos
+498286,James F. Byrnes,Claude Pepper,May 22,Leahy
+202579,Kevin McClelland,Jimmy Carson,1991,Edmonton
+434021,Danny Glover,Zakes Mokae,March 1982,Connecticut
+492527,Bruno Mars,Ed Sheeran,"July 5, 2019",Blow
+198968,Zenon Konopka,Matt Carkner,the season,Ottawa
+464877,Adam Orleton,Charles IV of France,the end of May,Paris
+410338,Ken Rosewall,Frank Sedgman,September,Europe
+139885,Jovica Vasilić,"Dušan Mladenović (footballer, born 1990)",the season,Sloboda Užice
+99083,John Leslie (priest),John Leslie (priest),April 1899,Dublin
+173146,Henry VIII of England,Francis I of France,1520,England
